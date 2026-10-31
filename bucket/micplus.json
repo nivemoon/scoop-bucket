@@ -5,10 +5,10 @@
     "license": "MIT",
     "url": "https://github.com/nivemoon/MicPlus/releases/download/1.7.0/MicPlus-Portable-1.7.0.zip",
     "hash": "4004d911722f0b203274a96d8225a30f52fb5c87da2929add713220db10d8ae7",
-    "bin": "MicPlus.exe",
+    "bin": "MicPlusPortable\\MicPlus.exe",
     "shortcuts": [
         [
-            "MicPlus.exe",
+            "MicPlusPortable\\MicPlus.exe",
             "MicPlus"
         ]
     ],
