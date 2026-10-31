@@ -1,9 +1,9 @@
 {
     "version": "1.7.0",
     "description": "Microphone and audio device manager for Windows",
-    "homepage": "https://github.com/Nivemoon/MicPlus",
+    "homepage": "https://github.com/nivemoon/MicPlus",
     "license": "MIT",
-    "url": "https://github.com/Nivemoon/MicPlus/releases/download/1.7.0/MicPlus-Portable-1.7.0.zip",
+    "url": "https://github.com/nivemoon/MicPlus/releases/download/1.7.0/MicPlus-Portable-1.7.0.zip",
     "hash": "4004d911722f0b203274a96d8225a30f52fb5c87da2929add713220db10d8ae7",
     "bin": "MicPlus.exe",
     "shortcuts": [
@@ -13,9 +13,9 @@
         ]
     ],
     "checkver": {
-        "github": "https://github.com/Nivemoon/MicPlus"
+        "github": "https://github.com/nivemoon/MicPlus"
     },
     "autoupdate": {
-       "url": "https://github.com/nivemoon/MicPlus/releases/download/$version/MicPlus-Portable-$version.zip"
+        "url": "https://github.com/nivemoon/MicPlus/releases/download/$version/MicPlus-Portable-$version.zip"
     }
 }
